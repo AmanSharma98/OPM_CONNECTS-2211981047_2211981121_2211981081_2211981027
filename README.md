@@ -1,18 +1,45 @@
-# OPM-CONNECTS
-🏥 OPM Connects is a full-stack web application designed to streamline the hospital appointment booking process. It offers a user-friendly platform for patients to view doctor availability, schedule appointments, manage bookings, and make secure payments — all in one place.
+# 🏥 OPM Connects
 
-🔧 Features:
-👨‍⚕️ Browse doctors by specialty and availability
-📅 Book and manage appointments with real-time slots
-🔐 Secure user authentication and role-based access (Patients, Doctors, Admin)
-💳 Integrated payment gateway for online payments
-📊 Admin dashboard for managing appointments, users, and doctors
+## Project Title
+OPM Connects – Smart Doctor Appointment Booking and Consultation Platform
 
-💻 Tech Stack:
--> Frontend: React.js, Tailwind CSS
--> Backend: Node.js, Express.js
--> Database: MongoDB
--> Authentication: JWT
--> Payments: Stripe API
--> Cloud Storage: Cloudinary
-# OPM-CONNECTS
+## Project Type
+Copyright Based Project
+
+## Team Details
+
+| Name | Roll Number |
+|------|------|
+| Aman Sharma | 2211981047 |
+| Ayush Kumar | 2211981121 |
+| Aditya Raj | 2211981027 |
+| Anubhav Jasrotia | 2211981081 |
+
+## Guide
+Dr. Monika Aggarwal
+
+## Current Status
+✅ Project Completed  
+✅ Frontend & Backend Integrated  
+✅ Appointment Booking Working  
+✅ Medicine Center Added  
+✅ Hosted Online Using Render  
+
+## Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- JWT Authentication
+- Render Hosting
+
+## About Project
+OPM Connects is a MERN Stack based healthcare platform that allows users to:
+- Book doctor appointments online
+- Pay consultation fees
+- Manage appointments
+- Purchase prescribed medicines directly from the platform
+
+---
+Chitkara University, Rajpura, Punjab
